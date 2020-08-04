@@ -13,4 +13,4 @@ com desenvolvimento web onde foi amor pela primeira vista. Hoje pretendo usar me
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/bruno0804) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:brunodesignersouza@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-brunodesignersouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodesignersouza@gmail.com)](mailto:brunodesignersouza@gmail.com)
