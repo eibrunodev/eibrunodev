@@ -14,5 +14,5 @@ com desenvolvimento web onde foi amor pela primeira vista. Hoje pretendo usar me
  <br/> 📚  &nbsp; Estudos: atualmente Participando da NWL. Cursei lógica de programação com Gustavo Guanabara tirando 
  uma otima nota, também cursei Html5 com uma nota máxima de 10 pts. Cursando javaScript com B7Web e um pouco mais 
  de  desenvolvimento front-end com a Galera do NWL   
- <br/> 📲 :email: &nbsp; Entre em contato comigo: Linkedin (https://www.linkedin.com/in/bruno-souza-lima-719a351ba)| ]
-[![Gmail Badge](https://img.shields.io/badge/-brunodesignersouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodesignersouza@gmail.com)](mailto:brunodesignersouza@gmail.com)
+ <br/> 📲 :email: &nbsp; Entre em contato comigo: Linkedin (https://www.linkedin.com/in/bruno-souza-lima-719a351ba/)
+[![Gmail Badge](https://img.shields.io/badge/-brunodesignersouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodesignersouza@gmail.com)](mailto:brunodesigersouza@gmail.com)
