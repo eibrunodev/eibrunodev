@@ -19,5 +19,5 @@ com desenvolvimento, web onde foi amor pela primeira vista. Hoje pretendo usar m
  uma otima nota, também cursei Html5 com uma nota máxima de 10 pts. Cursando javaScript com B7Web e um pouco mais 
  de  desenvolvimento front-end com a Galera do NWL   
  <br/> 📲 :email: &nbsp; Entre em contato comigo:<br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodesignersouza@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white:https://www.linkedin.com/in/eibrunodev/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eibrunodev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eibrunodev/)
