@@ -22,4 +22,4 @@ com desenvolvimento, web onde foi amor pela primeira vista. Hoje pretendo usar m
 [![Gmail Badge](https://img.shields.io/badge/-brunodesignersouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodesignersouza@gmail.com)](mailto:brunodesigersouza@gmail.com)
 [Bruno souza.pdf](https://github.com/eibrunodev/eibrunodev/files/6166257/Bruno.souza.pdf)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/eibrunodev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eibrunodev/)
