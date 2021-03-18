@@ -18,7 +18,9 @@ com desenvolvimento, web onde foi amor pela primeira vista. Hoje pretendo usar m
  <br/> 📚  &nbsp; Estudos: atualmente Participando da NWL. Cursei lógica de programação com Gustavo Guanabara tirando 
  uma otima nota, também cursei Html5 com uma nota máxima de 10 pts. Cursando javaScript com B7Web e um pouco mais 
  de  desenvolvimento front-end com a Galera do NWL   
- <br/> 📲 :email: &nbsp; Entre em contato comigo:<br/>
+ <br/> :mailbox_with_mail:&nbsp;Entre em contato:alien:comigo:<br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eibrunodev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eibrunodev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561985736528)
+<br/>
+
